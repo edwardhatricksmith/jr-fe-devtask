@@ -1,0 +1,22 @@
+{
+  "name": "wng-jr-fe-devtask",
+  "version": "1.0.0",
+  "description": "World Nomads Group - Jnr Front End Dev Excercise",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "http://gitlab.yorkstreet.local/wn-custom-apps/group-website",
+  "author": "World Nomads Group",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "cssnano": "^3.10.0",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-sass-lint": "^1.3.2",
+    "gulp-uglify": "^3.0.0",
+    "pump": "^1.0.2"
+  },
+  "dependencies": {
+  }
+}

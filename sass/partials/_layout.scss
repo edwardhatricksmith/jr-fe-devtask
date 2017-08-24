@@ -1,0 +1,10 @@
+// Layout variables partial
+
+$section-padding: 120px 0;
+
+section.intro, section.features-extra, section.sign-up, div.intro, div.features-extra, div.sign-up {
+	background: $section-light;
+}
+section.features, section.blog-intro, section.blog, div.features, div.blog-intro, div.blog {
+	background: $section-dark;
+}
