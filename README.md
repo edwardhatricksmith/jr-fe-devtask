@@ -40,10 +40,10 @@ From your terminal/shell:
 
 ## Submitting your work
 
-Submit your work by attaching it to your job application, either as:
+Submit your work by attaching it to your job application by either:
 
 - pushing the branch to your own repo.
-- a zip file
+- attaching a zip file
 - using Dropbox or something along those lines
 
-_Don't push to the jr-fe-devtask repo. It's not private so others will be able to see your work._
+_Don't push to this jr-fe-devtask repo. It's not private so others will be able to see your work._
