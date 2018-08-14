@@ -3,13 +3,13 @@ About
 
 Welcome to the World Nomads Group - Front End Dev. Exercise.
 
-The purpose of this exercise is to help us get an idea of your web development knowledge and approach.
+The purpose of this exercise is to help us get an idea of your front end development fundamentals.
 
-_There is no score card for this exercise. You may do as much or as little as you choose, however we recommend you aim to spend around *1 hour*._
+_There is no score card for this exercise. You may do as much or as little as you choose, however we recommend you aim to spend around **1 hour**._
 
 ## Instructions
 
-We've created this lovely new website for World Nomads Group. Unfortunately because of time constraints we did it in a rush. As such we've introduced a range of bugs, errors and general poor coding practices.
+We've created this lovely new website for [World Nomads Group](http://www.worldnomadsgroup.com/). Unfortunately because of time constraints we did it in a rush. As such we've introduced a range of bugs, errors and general poor coding practices.
 
 Your task is to help us fix these bugs, resolve any errors and tidy up some of our sloppy code :D
 
@@ -39,3 +39,5 @@ From your terminal/shell:
 ## Submitting your work
 
 Create a new Github repository with the following naming convention: https://github.com/yourusername/surname-fe-exercise
+
+Forward the link to this repository back to your recruiter or WNG contact. It will be used as the basis for an technical interview.
