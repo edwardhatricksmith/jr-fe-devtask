@@ -1,6 +1,6 @@
 {
   "name": "wng-jr-fe-devtask",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "World Nomads Group - Jnr Front End Dev Excercise",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,6 +17,5 @@
     "gulp-uglify": "^3.0.0",
     "pump": "^1.0.2"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }

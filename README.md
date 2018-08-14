@@ -1,11 +1,11 @@
 About
 =====
 
-Welcome to the World Nomads Group - Jnr. Front End Dev. Exercise.
+Welcome to the World Nomads Group - Front End Dev. Exercise.
 
 The purpose of this exercise is to help us get an idea of your web development knowledge and approach.
 
-_There is no score card for this exercise. You can do as much or as little as you choose. We recommend a few hours, though it's really up to you._
+_There is no score card for this exercise. You may do as much or as little as you choose, however we recommend you aim to spend around *1 hour*._
 
 ## Instructions
 
@@ -20,16 +20,14 @@ A few things to keep an eye out for:
 3. There are a number of bugs and errors.
 4. Best practice for css and js resources wasn't followed.
 
-## Bonus points for the hard-core
+## Bonus points for experts
 
 1. Concatenate and minify our JS and CSS resources. You could do this with Gulp.
-2. Improve the CSS by implementing a modular CSS methodology.
+2. Improve the CSS by implementing some modular CSS practices.
 
 ## Development tips
 
-The simplest thing you can to get started is download or clone this repository, then start editing the files.
-
-If you would like to make things easier for yourself, you can run Gulp to help automate some tasks. You'll need to [install node and npm](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md) first.
+While you could start by simply editing the files, we suggest you get [Gulp running first](https://gulpjs.com/).
 
 From your terminal/shell:
 
@@ -40,10 +38,4 @@ From your terminal/shell:
 
 ## Submitting your work
 
-Submit your work by attaching it to your job application by either:
-
-- pushing the branch to your own repo.
-- attaching a zip file
-- using Dropbox or something along those lines
-
-_Don't push to this jr-fe-devtask repo. It's not private so others will be able to see your work._
+Create a new Github repository with the following naming convention: https://github.com/yourusername/surname-fe-exercise
