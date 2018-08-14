@@ -1,7 +1,5 @@
-About
+World Nomads Group - FE Exercise
 =====
-
-Welcome to the World Nomads Group - Front End Dev. Exercise.
 
 The purpose of this exercise is to help us get an idea of your front end development fundamentals.
 
