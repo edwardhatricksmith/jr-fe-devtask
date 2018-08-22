@@ -13,15 +13,10 @@ Your task is to help us fix these bugs, resolve any errors and tidy up some of o
 
 A few things to keep an eye out for:
 
-1. The html is not very semantic.
-2. Our headings aren't responsive. They should adjust based on screen sizes.
+1. The html is not very semantic so should be improved.
+2. The headings aren't responsive. The designer has asked they they scale based on screen sizes.
 3. There are a number of bugs and errors.
-4. Best practice for css and js resources wasn't followed.
-
-## Bonus points for experts
-
-1. Concatenate and minify our JS and CSS resources. You could do this with Gulp.
-2. Improve the CSS by implementing some modular CSS practices.
+4. Little attention was paid to page-speed, performance. See what you can do to help improve this.
 
 ## Development tips
 
